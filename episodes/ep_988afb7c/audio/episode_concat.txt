@@ -1,0 +1,7 @@
+file 'episodes/ep_988afb7c/audio/scene_00/scene_audio.mp3'
+file 'episodes/ep_988afb7c/audio/scene_01/scene_audio.mp3'
+file 'episodes/ep_988afb7c/audio/scene_02/scene_audio.mp3'
+file 'episodes/ep_988afb7c/audio/scene_03/scene_audio.mp3'
+file 'episodes/ep_988afb7c/audio/scene_04/scene_audio.mp3'
+file 'episodes/ep_988afb7c/audio/scene_05/scene_audio.mp3'
+file 'episodes/ep_988afb7c/audio/scene_06/scene_audio.mp3'

@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Logging Guidelines
+
+This rule outlines the standards and practices for logging within this project.
+
+**Context:**
+This project uses Python's standard built-in `logging` module for application logging. Logging is configured globally in `main.py`, and each module typically obtains its own logger instance.
+
+**Guidelines:**
+
+1.  **Obtain Logger:** In each Python module (`.py` file), obtain the module-specific logger instance at the top of the file:
+    ```python
+    import logging
+    logger = logging.getLogger(__name__)
+    ```
+2.  **Logging Levels:** Use the appropriate logging level based on the nature of the message:
+    *   `logger.debug()`: Detailed information, typically only of interest when diagnosing problems. Useful for tracing program execution.
+    *   `logger.info()`: Confirmation that things are working as expected. Good for logging key steps in a process (e.g., "Processing EPUB file...", "Generating scene...", "Saving episode structure...").
+    *   `logger.warning()`: An indication that something unexpected happened, or a problem likely to occur soon (e.g. ‘disk space low’). The software is still working as expected. Useful for non-critical issues or potential configuration problems.
+    *   `logger.error()`: Due to a more serious problem, the software has not been able to perform some function. Use for operational errors that prevent a specific task from completing but might not crash the entire application.
+    *   `logger.exception()`: Similar to `error()`, but logs a stack trace along with the message. Use inside `except` blocks to log detailed information about unhandled exceptions.
+3.  **What to Log:**
+    *   Log the start and end of significant operations (e.g., ingesting a book, generating an episode, syncing memory).
+    *   Log errors and warnings with enough context to diagnose the issue (e.g., file path, episode ID, character name involved).
+    *   Log key decisions or branches in logic, especially during complex processes like story generation or quality checking.
+    *   Log inputs and outputs of critical functions when debugging or in debug level logs.
+4.  **Clarity:** Ensure log messages are clear, concise, and provide relevant context (e.g., include the ID of the episode or book being processed).
+5.  **Configuration:** The logging configuration is managed in `main.py` and `cli_entrypoint.py`. Do not reconfigure logging levels or handlers within other modules unless explicitly required for a specific, localized purpose (which should be rare).

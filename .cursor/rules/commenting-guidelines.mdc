@@ -1,0 +1,24 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Commenting Guidelines
+
+This rule defines the standards for commenting code within this project.
+
+**Guidelines:**
+
+1.  **Purpose:** Always document your code to explain *why* something is done, *how* it works (if not immediately obvious), and its intended *purpose*, rather than simply restating *what* the code does.
+2.  **Docstrings (PEP 257):** Use docstrings for all modules, classes, methods, and functions.
+    *   **Modules:** Explain the module's overall purpose.
+    *   **Classes:** Explain the class's role and responsibilities.
+    *   **Functions/Methods:** Explain what the function/method does, its arguments (`Args:`), what it returns (`Returns:`), and any exceptions it might raise (`Raises:`).
+    *   Use clear and concise language in docstrings. Follow PEP 257 conventions (triple quotes, summary line, blank line, then details).
+3.  **Inline Comments (#):** Use inline comments sparingly for:
+    *   Explaining complex or "non-obvious" lines of code.
+    *   Adding notes about potential issues or future work (`# TODO:`).
+    *   Adding temporary comments for debugging.
+4.  **Old Comments:** Never erase old comments if they are still useful for understanding the code's history, design decisions, or potential gotchas. Mark outdated comments clearly (e.g., `# NOTE: [Reason why it might be outdated]`).
+5.  **Consistency:** Maintain consistent commenting style throughout the codebase.
+6.  **Self-Documentation:** Well-written, clean code is inherently self-documenting. Strive for clarity in code first, and use comments to supplement, not replace, readability.

@@ -1,0 +1,29 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# New Feature Implementation Guidelines
+
+This rule provides guidance on how to implement new features or functionalities within this project.
+
+**Context:**
+This project is a modular Python CLI application. Adding a new feature involves extending the existing structure rather than modifying a single configuration file like in some web frameworks.
+
+**Guidelines:**
+
+1.  **Modularity:** New features should be implemented in new, dedicated Python modules (`.py` files) or as methods/classes within existing modules if the functionality is closely related to that module's purpose. Maintain clear separation of concerns. Avoid creating excessively large files; break down logic into smaller functions or classes if necessary (aim for well-defined units of work, not strict line counts).
+2.  **Integration:**
+    *   Integrate new logic by importing necessary modules and calling their functions or methods.
+    *   If the feature is a new user-facing command, register it in `cli_entrypoint.py` using the `@register_command` decorator and provide the necessary arguments and help text.
+    *   If the feature extends an existing workflow (e.g., adding a new step to audio generation or quality checking), modify the relevant functions/methods in the appropriate module(s) (`audio_pipeline.py`, `quality_checker.py`, etc.) to incorporate the new logic.
+3.  **Data Handling:** If the new feature requires storing or retrieving data, utilize the existing data management patterns:
+    *   Persistent application data should generally go in the `data/` directory.
+    *   Episode-specific data should go in the `episodes/<episode_id>/` directory.
+    *   Leverage the `mem0_client.py` module and the `Mem0Client` instance (via `get_mem0_client()`) for storing and searching vector embeddings or structured memories.
+    *   Utilize the `episode_metadata.py` module for managing episode-level metadata like tags or series.
+4.  **"Don't Be Lazy":** When asked to implement a feature, always write the complete, functional code required. Do not provide pseudo-code, incomplete functions, or placeholders unless explicitly instructed to do so (e.g., for outlining). The goal is shippable, production-level code.
+5.  **Testing:** If possible, include basic tests for the new functionality, ideally using the `unittest` or `pytest` framework as established in `tests/test_story_structure.py`.
+6.  **Documentation:** Update the `README.md` and `SETUP_GUIDE.md` (or create new documentation files in a `docs/` directory if the project grows) to explain how to use the new feature, any new configuration required, and its purpose.
+
+By following these steps, new features can be seamlessly integrated into the project's architecture and maintain consistency.

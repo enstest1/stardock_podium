@@ -1,0 +1,92 @@
+{
+  "voice_5355b474": {
+    "voice_registry_id": "voice_5355b474",
+    "name": "Naren",
+    "voice_id": "EXAVITQu4vr4xnSDxMaL",
+    "description": "Strong and confident, with the ability to switch from commanding to serene when discussing spiritual matters. Her voice carries the weight of experience and resilience.",
+    "character_bio": "",
+    "created_at": 1747551981.4664302,
+    "updated_at": 1747551981.4664302,
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voice_67431675": {
+    "voice_registry_id": "voice_67431675",
+    "name": "Aria T'Vel",
+    "voice_id": "HV5LQQys2FkXruuXDrZb",
+    "description": "A Vulcan female voice that is smooth, calm, and precise in articulation. The voice should have an undercurrent of warmth that suggests a deeper understanding of emotion, while maintaining the characteristic Vulcan logical tone. The voice should be clear and measured, with perfect enunciation.",
+    "character_bio": "",
+    "created_at": 1747552093.0796938,
+    "updated_at": 1747552106.4302294,
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voice_5a2a7b34": {
+    "voice_registry_id": "voice_5a2a7b34",
+    "name": "Jalen",
+    "voice_id": "uLDRhO9layp3hZXPNqPL",
+    "description": "A male Trill voice that is warm and enthusiastic, carrying the wisdom of multiple lifetimes through the symbiont. The voice should have a natural eagerness that can accelerate when excited, while maintaining a sense of ancient knowledge. The tone should be friendly but authoritative, with a slight musical quality.",
+    "character_bio": "",
+    "created_at": 1747552122.845965,
+    "updated_at": 1747552143.9579473,
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voice_f2e8b0cf": {
+    "voice_registry_id": "voice_f2e8b0cf",
+    "name": "Naren",
+    "voice_id": "hmHVDDDgElcw05Hab5Aq",
+    "description": "A female Bajoran voice that is strong and confident, with the ability to shift between commanding authority and spiritual serenity. The voice should carry the weight of experience and resilience, with a slight accent that reflects her Bajoran heritage. The tone should be firm but compassionate.",
+    "character_bio": "",
+    "created_at": 1747552159.2912946,
+    "updated_at": 1747552178.8939433,
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voice_bd139ac0": {
+    "voice_registry_id": "voice_bd139ac0",
+    "name": "Elara",
+    "voice_id": "zlQ9pP86DFdJRGrI5QVr",
+    "description": "A female Caitian voice that is softly musical with a purring undertone. The voice should be soothing and gentle, with a playful lilt that can become serious when needed. The tone should reflect her species' feline nature while maintaining clear, professional articulation.",
+    "character_bio": "",
+    "created_at": 1747552202.0774274,
+    "updated_at": 1747552217.1471746,
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voice_79ba991b": {
+    "voice_registry_id": "voice_79ba991b",
+    "name": "Sarik",
+    "voice_id": "ZhcjUs7alfYWoranjDAa",
+    "description": "A male El-Aurian voice that is gentle and reflective, carrying an aura of wisdom beyond his years. The voice should be deliberate and thoughtful, with a comforting, almost lyrical quality. The tone should reflect his species' long lifespan and natural empathy.",
+    "character_bio": "",
+    "created_at": 1747552234.3653924,
+    "updated_at": 1747552277.043203,
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "use_speaker_boost": true
+    }
+  }
+}

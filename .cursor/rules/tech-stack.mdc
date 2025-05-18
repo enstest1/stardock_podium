@@ -1,0 +1,47 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Tech Stack
+
+This rule provides an overview of the core technologies, libraries, and frameworks used in this project. Understanding the tech stack is essential for generating correct and compatible code.
+
+**Context:**
+This project is a Python application that leverages several external libraries and APIs for its functionality.
+
+**Core Technologies & Libraries:**
+
+*   **Language:** Python 3.8+
+*   **Application Type:** Command-Line Interface (CLI) Application
+*   **CLI Framework:** Standard Python `argparse` (used in `cli_entrypoint.py`).
+*   **LLM Interaction:**
+    *   `openai`: Used for interacting with OpenAI and OpenRouter models (`gpt-4o`, `claude-3-opus` via OpenRouter base URL). Handles text generation for titles, characters, scenes, scripts, and quality evaluation.
+    *   `python-dotenv`: Used for loading API keys and configuration from a `.env` file.
+*   **Vector Database / Memory:**
+    *   `mem0`: Used for storing and retrieving semantic memories related to reference materials (books), episode history, and character information. Interacted with via the `mem0_client.py` wrapper.
+*   **EPUB Processing:**
+    *   `ebooklib`: Used for reading and parsing EPUB files (`.epub`).
+    *   `html2text`: Used for converting HTML content extracted from EPUBs into plain text.
+*   **Audio Processing:**
+    *   `elevenlabs`: Used for generating speech audio from text using defined voices. Interacted with via the `voice_registry.py` and `audio_pipeline.py` modules.
+    *   `ffmpeg-python`: Python bindings for FFmpeg, used for audio manipulation, mixing, probing duration, etc. Relies on the FFmpeg executable being installed and in the system's PATH.
+*   **Natural Language Processing (NLP):**
+    *   `nltk` (Natural Language Toolkit): Used for text processing tasks like tokenization and potentially style analysis. Requires specific NLTK data packages to be downloaded.
+*   **Networking:**
+    *   `requests`: Used for making HTTP requests (potentially by libraries, or custom calls if needed).
+    *   `aiohttp`: Used for asynchronous HTTP requests (potentially by libraries).
+*   **Utilities:**
+    *   `tqdm`: Used for displaying progress bars during lengthy operations (like memory sync).
+    *   `colorama`: Used for cross-platform colored terminal output.
+    *   `numpy`, `pandas`: Included in `requirements.txt`, may be used for data analysis tasks (e.g., in `book_style_analysis.py`).
+*   **Testing:**
+    *   `pytest`, `pytest-asyncio`: Used for running tests.
+
+**Architecture Concepts:**
+
+*   **Modularity:** Code is organized into distinct Python modules (`.py` files) with specific responsibilities.
+*   **Singletons:** Core manager/client instances (e.g., Mem0Client, VoiceRegistry) are typically implemented as singletons and accessed via helper functions (`get_...()`).
+*   **Data Files:** Episode data, configuration, and registries are stored in structured JSON files within dedicated directories (`episodes/`, `data/`, `voices/`).
+
+The AI assistant should leverage these libraries and adhere to the project's architecture when generating or modifying code. Do not introduce new major frameworks or libraries unless specifically instructed.

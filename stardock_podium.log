@@ -1,0 +1,1433 @@
+2025-05-17 22:04:44,695 - __main__ - INFO - Checking environment...
+2025-05-17 22:04:44,732 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:04:44,732 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:04:44,734 - __main__ - ERROR - Required module not found: mem0 (Mem0 Vector Database Client)
+2025-05-17 22:04:44,734 - __main__ - ERROR - Required module not found: ebooklib (EPUB Processing Library)
+2025-05-17 22:04:44,735 - __main__ - ERROR - Required module not found: elevenlabs (ElevenLabs Voice Synthesis API)
+2025-05-17 22:04:44,736 - __main__ - INFO - Module found: openai
+2025-05-17 22:04:44,737 - __main__ - ERROR - Required module not found: nltk (Natural Language Toolkit)
+2025-05-17 22:04:44,738 - __main__ - ERROR - Required module not found: ffmpeg (FFmpeg Python Bindings)
+2025-05-17 22:04:44,808 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:04:44,809 - __main__ - WARNING - Environment variable OPENAI_API_KEY for OpenAI API not found.
+2025-05-17 22:04:44,809 - __main__ - WARNING - Environment variable OPENROUTER_API_KEY for OpenRouter API not found.
+2025-05-17 22:04:44,809 - __main__ - WARNING - Environment variable ELEVENLABS_API_KEY for ElevenLabs API not found.
+2025-05-17 22:04:44,809 - __main__ - WARNING - Environment variable MEM0_API_KEY for Mem0 API not found.
+2025-05-17 22:04:44,809 - __main__ - ERROR - Environment check failed. Please fix the issues and try again.
+2025-05-17 22:11:03,381 - __main__ - INFO - Checking environment...
+2025-05-17 22:11:03,410 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:11:03,410 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:11:03,411 - __main__ - ERROR - Required module not found: mem0 (Mem0 Vector Database Client)
+2025-05-17 22:11:03,412 - __main__ - ERROR - Required module not found: ebooklib (EPUB Processing Library)
+2025-05-17 22:11:03,413 - __main__ - ERROR - Required module not found: elevenlabs (ElevenLabs Voice Synthesis API)
+2025-05-17 22:11:03,414 - __main__ - INFO - Module found: openai
+2025-05-17 22:11:03,415 - __main__ - ERROR - Required module not found: nltk (Natural Language Toolkit)
+2025-05-17 22:11:03,416 - __main__ - ERROR - Required module not found: ffmpeg (FFmpeg Python Bindings)
+2025-05-17 22:11:03,553 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:11:03,554 - __main__ - WARNING - Environment variable OPENAI_API_KEY for OpenAI API not found.
+2025-05-17 22:11:03,554 - __main__ - WARNING - Environment variable OPENROUTER_API_KEY for OpenRouter API not found.
+2025-05-17 22:11:03,554 - __main__ - WARNING - Environment variable ELEVENLABS_API_KEY for ElevenLabs API not found.
+2025-05-17 22:11:03,554 - __main__ - WARNING - Environment variable MEM0_API_KEY for Mem0 API not found.
+2025-05-17 22:11:03,554 - __main__ - ERROR - Environment check failed. Please fix the issues and try again.
+2025-05-17 22:17:08,498 - __main__ - INFO - Checking environment...
+2025-05-17 22:17:08,522 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:17:08,522 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:17:08,523 - __main__ - ERROR - Required module not found: mem0 (Mem0 Vector Database Client)
+2025-05-17 22:17:08,524 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:17:08,524 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:17:08,525 - __main__ - INFO - Module found: openai
+2025-05-17 22:17:08,525 - __main__ - INFO - Module found: nltk
+2025-05-17 22:17:08,526 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:17:08,631 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:17:08,631 - __main__ - WARNING - Environment variable OPENAI_API_KEY for OpenAI API not found.
+2025-05-17 22:17:08,631 - __main__ - WARNING - Environment variable OPENROUTER_API_KEY for OpenRouter API not found.
+2025-05-17 22:17:08,631 - __main__ - WARNING - Environment variable ELEVENLABS_API_KEY for ElevenLabs API not found.
+2025-05-17 22:17:08,632 - __main__ - WARNING - Environment variable MEM0_API_KEY for Mem0 API not found.
+2025-05-17 22:17:08,632 - __main__ - ERROR - Environment check failed. Please fix the issues and try again.
+2025-05-17 22:28:37,155 - __main__ - INFO - Checking environment...
+2025-05-17 22:28:37,188 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:28:37,188 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:28:37,189 - __main__ - INFO - Module found: mem0
+2025-05-17 22:28:37,190 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:28:37,191 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:28:37,192 - __main__ - INFO - Module found: openai
+2025-05-17 22:28:37,193 - __main__ - INFO - Module found: nltk
+2025-05-17 22:28:37,194 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:28:37,294 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:28:37,294 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:28:37,299 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:28:37,927 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:28:38,154 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:28:38,967 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:28:39,678 - __main__ - INFO - Initializing modules...
+2025-05-17 22:28:41,322 - __main__ - ERROR - Error initializing modules: No module named 'html2text'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 161, in init_modules
+    from epub_processor import EPUBProcessor
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\epub_processor.py", line 17, in <module>
+    import html2text
+ModuleNotFoundError: No module named 'html2text'
+2025-05-17 22:28:41,324 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:28:41,331 - __main__ - INFO - Starting CLI...
+2025-05-17 22:32:33,790 - __main__ - INFO - Checking environment...
+2025-05-17 22:32:33,826 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:32:33,827 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:32:33,827 - __main__ - INFO - Module found: mem0
+2025-05-17 22:32:33,828 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:32:33,828 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:32:33,829 - __main__ - INFO - Module found: openai
+2025-05-17 22:32:33,829 - __main__ - INFO - Module found: nltk
+2025-05-17 22:32:33,830 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:32:33,934 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:32:33,935 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:32:33,936 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:32:34,548 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:32:34,708 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:32:34,744 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:32:34,747 - __main__ - INFO - Initializing modules...
+2025-05-17 22:32:39,149 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:32:39,168 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:32:39,168 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:32:39,169 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:32:39,171 - __main__ - INFO - Starting CLI...
+2025-05-17 22:32:39,241 - epub_processor - INFO - Successfully processed EPUB: Revenant (ID: book_7067f501)
+2025-05-17 22:32:39,241 - cli_entrypoint - INFO - Successfully ingested: Revenant
+2025-05-17 22:32:40,786 - __main__ - INFO - Checking environment...
+2025-05-17 22:32:40,808 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:32:40,808 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:32:40,808 - __main__ - INFO - Module found: mem0
+2025-05-17 22:32:40,809 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:32:40,810 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:32:40,811 - __main__ - INFO - Module found: openai
+2025-05-17 22:32:40,811 - __main__ - INFO - Module found: nltk
+2025-05-17 22:32:40,812 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:32:40,888 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:32:40,888 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:32:40,890 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:32:41,222 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:32:41,344 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:32:41,368 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:32:41,370 - __main__ - INFO - Initializing modules...
+2025-05-17 22:32:44,377 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:32:44,392 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:32:44,392 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:32:44,393 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:32:44,394 - __main__ - INFO - Starting CLI...
+2025-05-17 22:32:44,449 - epub_processor - INFO - Successfully processed EPUB: Star Trek: Discovery: Wonderlands (ID: book_02426b82)
+2025-05-17 22:32:44,450 - cli_entrypoint - INFO - Successfully ingested: Star Trek: Discovery: Wonderlands
+2025-05-17 22:32:46,012 - __main__ - INFO - Checking environment...
+2025-05-17 22:32:46,056 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:32:46,056 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:32:46,057 - __main__ - INFO - Module found: mem0
+2025-05-17 22:32:46,058 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:32:46,058 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:32:46,059 - __main__ - INFO - Module found: openai
+2025-05-17 22:32:46,059 - __main__ - INFO - Module found: nltk
+2025-05-17 22:32:46,060 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:32:46,152 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:32:46,152 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:32:46,153 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:32:46,557 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:32:46,694 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:32:46,720 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:32:46,722 - __main__ - INFO - Initializing modules...
+2025-05-17 22:32:50,108 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:32:50,127 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:32:50,128 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:32:50,128 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:32:50,129 - __main__ - INFO - Starting CLI...
+2025-05-17 22:32:50,183 - epub_processor - INFO - Successfully processed EPUB: Second Self (ID: book_227e6b58)
+2025-05-17 22:32:50,183 - cli_entrypoint - INFO - Successfully ingested: Second Self
+2025-05-17 22:32:53,641 - __main__ - INFO - Checking environment...
+2025-05-17 22:32:54,199 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:32:54,199 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:32:54,200 - __main__ - INFO - Module found: mem0
+2025-05-17 22:32:54,201 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:32:54,202 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:32:54,203 - __main__ - INFO - Module found: openai
+2025-05-17 22:32:54,203 - __main__ - INFO - Module found: nltk
+2025-05-17 22:32:54,204 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:32:54,305 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:32:54,305 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:32:54,307 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:32:54,743 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:32:54,886 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:32:54,913 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:32:54,916 - __main__ - INFO - Initializing modules...
+2025-05-17 22:32:58,032 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:32:58,053 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:32:58,053 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:32:58,054 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:32:58,056 - __main__ - INFO - Starting CLI...
+2025-05-17 22:32:58,089 - epub_processor - INFO - Successfully processed EPUB: Star Trek: Picard: The Dark Veil (ID: book_be1d94cc)
+2025-05-17 22:32:58,090 - cli_entrypoint - INFO - Successfully ingested: Star Trek: Picard: The Dark Veil
+2025-05-17 22:33:00,026 - __main__ - INFO - Checking environment...
+2025-05-17 22:33:00,053 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:33:00,053 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:33:00,053 - __main__ - INFO - Module found: mem0
+2025-05-17 22:33:00,054 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:33:00,055 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:33:00,056 - __main__ - INFO - Module found: openai
+2025-05-17 22:33:00,056 - __main__ - INFO - Module found: nltk
+2025-05-17 22:33:00,057 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:33:00,135 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:33:00,135 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:33:00,137 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:33:00,546 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:33:00,715 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:33:00,740 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:33:00,742 - __main__ - INFO - Initializing modules...
+2025-05-17 22:33:11,904 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:33:11,923 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:33:11,923 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:33:11,924 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:33:11,925 - __main__ - INFO - Starting CLI...
+2025-05-17 22:33:11,986 - epub_processor - INFO - Successfully processed EPUB: To Lose the Earth (ID: book_e639f517)
+2025-05-17 22:33:11,987 - cli_entrypoint - INFO - Successfully ingested: To Lose the Earth
+2025-05-17 22:37:25,598 - __main__ - INFO - Checking environment...
+2025-05-17 22:37:25,621 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:37:25,622 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:37:25,623 - __main__ - INFO - Module found: mem0
+2025-05-17 22:37:25,623 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:37:25,624 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:37:25,625 - __main__ - INFO - Module found: openai
+2025-05-17 22:37:25,625 - __main__ - INFO - Module found: nltk
+2025-05-17 22:37:25,626 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:37:25,691 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:37:25,692 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:37:25,693 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:37:26,017 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:37:26,253 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:37:26,279 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:37:26,281 - __main__ - INFO - Initializing modules...
+2025-05-17 22:37:29,196 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:37:29,211 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:37:29,212 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:37:29,213 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:37:29,214 - __main__ - INFO - Starting CLI...
+2025-05-17 22:37:31,139 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:37:31,154 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:37:43,430 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/ "HTTP/1.1 200 OK"
+2025-05-17 22:37:43,451 - story_structure - INFO - Saved episode structure to episodes\ep_fb8583f6\structure.json
+2025-05-17 22:39:04,731 - __main__ - INFO - Checking environment...
+2025-05-17 22:39:04,762 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:39:04,762 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:39:04,763 - __main__ - INFO - Module found: mem0
+2025-05-17 22:39:04,763 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:39:04,764 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:39:04,765 - __main__ - INFO - Module found: openai
+2025-05-17 22:39:04,765 - __main__ - INFO - Module found: nltk
+2025-05-17 22:39:04,766 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:39:04,843 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:39:04,843 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:39:04,844 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:39:05,179 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:39:05,303 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:39:05,328 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:39:05,331 - __main__ - INFO - Initializing modules...
+2025-05-17 22:39:08,335 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:39:08,352 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:39:08,353 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:39:08,355 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:39:08,357 - __main__ - INFO - Starting CLI...
+2025-05-17 22:39:21,021 - __main__ - INFO - Checking environment...
+2025-05-17 22:39:21,045 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:39:21,046 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:39:21,046 - __main__ - INFO - Module found: mem0
+2025-05-17 22:39:21,047 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:39:21,048 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:39:21,049 - __main__ - INFO - Module found: openai
+2025-05-17 22:39:21,050 - __main__ - INFO - Module found: nltk
+2025-05-17 22:39:21,051 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:39:21,127 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:39:21,127 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:39:21,129 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:39:21,473 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:39:21,604 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:39:21,630 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:39:21,633 - __main__ - INFO - Initializing modules...
+2025-05-17 22:39:24,791 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:39:24,807 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:39:24,807 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:39:24,808 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:39:24,810 - __main__ - INFO - Starting CLI...
+2025-05-17 22:41:23,267 - __main__ - INFO - Checking environment...
+2025-05-17 22:41:23,320 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:41:23,320 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:41:23,324 - __main__ - INFO - Module found: mem0
+2025-05-17 22:41:23,325 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:41:23,326 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:41:23,327 - __main__ - INFO - Module found: openai
+2025-05-17 22:41:23,327 - __main__ - INFO - Module found: nltk
+2025-05-17 22:41:23,328 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:41:23,404 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:41:23,405 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:41:23,406 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:41:23,768 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:41:23,894 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:41:23,926 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:41:23,930 - __main__ - INFO - Initializing modules...
+2025-05-17 22:41:27,326 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:41:27,349 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:41:27,349 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:41:27,350 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:41:27,352 - __main__ - INFO - Starting CLI...
+2025-05-17 22:41:29,048 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:41:29,066 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:41:30,898 - script_editor - ERROR - Script file not found: episodes\ep_fb8583f6\script.json
+2025-05-17 22:41:30,899 - script_editor - ERROR - Script not found for episode: ep_fb8583f6
+2025-05-17 22:41:52,396 - __main__ - INFO - Checking environment...
+2025-05-17 22:41:52,423 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:41:52,423 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:41:52,424 - __main__ - INFO - Module found: mem0
+2025-05-17 22:41:52,424 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:41:52,425 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:41:52,426 - __main__ - INFO - Module found: openai
+2025-05-17 22:41:52,427 - __main__ - INFO - Module found: nltk
+2025-05-17 22:41:52,427 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:41:52,499 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:41:52,499 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:41:52,502 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:41:52,855 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:41:53,002 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:41:53,027 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:41:53,031 - __main__ - INFO - Initializing modules...
+2025-05-17 22:42:04,098 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:42:04,115 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:42:04,116 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:42:04,117 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:42:04,119 - __main__ - INFO - Starting CLI...
+2025-05-17 22:42:05,159 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:42:05,175 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:42:17,733 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/ "HTTP/1.1 200 OK"
+2025-05-17 22:42:17,756 - story_structure - INFO - Saved episode structure to episodes\ep_5f1aa35d\structure.json
+2025-05-17 22:42:56,493 - __main__ - INFO - Checking environment...
+2025-05-17 22:42:56,521 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:42:56,521 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:42:56,522 - __main__ - INFO - Module found: mem0
+2025-05-17 22:42:56,523 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:42:56,523 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:42:56,524 - __main__ - INFO - Module found: openai
+2025-05-17 22:42:56,525 - __main__ - INFO - Module found: nltk
+2025-05-17 22:42:56,526 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:42:56,615 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:42:56,615 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:42:56,617 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:42:57,005 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:42:57,209 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:42:57,237 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:42:57,240 - __main__ - INFO - Initializing modules...
+2025-05-17 22:43:00,439 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:43:00,455 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:43:00,455 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:43:00,456 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:43:00,458 - __main__ - INFO - Starting CLI...
+2025-05-17 22:43:02,036 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:43:02,056 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:43:03,975 - script_editor - ERROR - Script file not found: episodes\ep_5f1aa35d\script.json
+2025-05-17 22:43:03,975 - script_editor - ERROR - Script not found for episode: ep_5f1aa35d
+2025-05-17 22:43:44,058 - __main__ - INFO - Checking environment...
+2025-05-17 22:43:44,092 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:43:44,093 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:43:44,093 - __main__ - INFO - Module found: mem0
+2025-05-17 22:43:44,099 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:43:44,100 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:43:44,101 - __main__ - INFO - Module found: openai
+2025-05-17 22:43:44,101 - __main__ - INFO - Module found: nltk
+2025-05-17 22:43:44,102 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:43:44,254 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:43:44,255 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:43:44,257 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:43:44,807 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:43:44,974 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:43:45,007 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:43:45,010 - __main__ - INFO - Initializing modules...
+2025-05-17 22:43:48,105 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:43:48,122 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:43:48,123 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:43:48,124 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:43:48,125 - __main__ - INFO - Starting CLI...
+2025-05-17 22:43:49,676 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:43:49,708 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:43:51,555 - script_editor - ERROR - Script file not found: episodes\ep_5f1aa35d\script.json
+2025-05-17 22:43:51,556 - script_editor - ERROR - Script not found for episode: ep_5f1aa35d
+2025-05-17 22:44:41,856 - __main__ - INFO - Checking environment...
+2025-05-17 22:44:41,880 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 22:44:41,881 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 22:44:41,882 - __main__ - INFO - Module found: mem0
+2025-05-17 22:44:41,883 - __main__ - INFO - Module found: ebooklib
+2025-05-17 22:44:41,883 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 22:44:41,884 - __main__ - INFO - Module found: openai
+2025-05-17 22:44:41,885 - __main__ - INFO - Module found: nltk
+2025-05-17 22:44:41,885 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 22:44:41,982 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 22:44:41,982 - __main__ - INFO - Creating necessary directories...
+2025-05-17 22:44:41,984 - __main__ - INFO - Checking NLTK data...
+2025-05-17 22:44:42,339 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 22:44:42,475 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 22:44:42,501 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 22:44:42,503 - __main__ - INFO - Initializing modules...
+2025-05-17 22:44:45,624 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:44:45,644 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 22:44:45,645 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 22:44:45,646 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 22:44:45,647 - __main__ - INFO - Starting CLI...
+2025-05-17 22:44:47,200 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 22:44:47,216 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:34:04,807 - __main__ - INFO - Checking environment...
+2025-05-17 23:34:04,847 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:34:04,847 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:34:04,849 - __main__ - INFO - Module found: mem0
+2025-05-17 23:34:04,852 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:34:04,854 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:34:04,855 - __main__ - INFO - Module found: openai
+2025-05-17 23:34:04,857 - __main__ - INFO - Module found: nltk
+2025-05-17 23:34:04,859 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:34:04,987 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:34:04,988 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:34:04,991 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:34:05,774 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:34:06,285 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:34:06,337 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:34:06,342 - __main__ - INFO - Initializing modules...
+2025-05-17 23:34:11,208 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:34:11,231 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:34:11,231 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:34:11,233 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:34:11,235 - __main__ - INFO - Starting CLI...
+2025-05-17 23:34:13,019 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:34:13,040 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:34:14,920 - script_editor - ERROR - Script file not found: episodes\ep_5f1aa35d\script.json
+2025-05-17 23:34:14,921 - script_editor - ERROR - Script not found for episode: ep_5f1aa35d
+2025-05-17 23:35:37,841 - __main__ - INFO - Checking environment...
+2025-05-17 23:35:37,882 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:35:37,883 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:35:37,884 - __main__ - INFO - Module found: mem0
+2025-05-17 23:35:37,885 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:35:37,886 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:35:37,887 - __main__ - INFO - Module found: openai
+2025-05-17 23:35:37,887 - __main__ - INFO - Module found: nltk
+2025-05-17 23:35:37,888 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:35:38,000 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:35:38,000 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:35:38,001 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:35:38,562 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:35:38,721 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:35:38,764 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:35:38,768 - __main__ - INFO - Initializing modules...
+2025-05-17 23:35:42,236 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:35:42,255 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:35:42,256 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:35:42,258 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:35:42,259 - __main__ - INFO - Starting CLI...
+2025-05-17 23:37:05,011 - __main__ - INFO - Checking environment...
+2025-05-17 23:37:05,035 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:37:05,035 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:37:05,036 - __main__ - INFO - Module found: mem0
+2025-05-17 23:37:05,037 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:37:05,037 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:37:05,038 - __main__ - INFO - Module found: openai
+2025-05-17 23:37:05,039 - __main__ - INFO - Module found: nltk
+2025-05-17 23:37:05,040 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:37:05,123 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:37:05,123 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:37:05,125 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:37:05,464 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:37:05,597 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:37:05,621 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:37:05,624 - __main__ - INFO - Initializing modules...
+2025-05-17 23:37:08,841 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:37:08,858 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:37:08,858 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:37:08,860 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:37:08,861 - __main__ - INFO - Starting CLI...
+2025-05-17 23:37:10,434 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:37:10,456 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:37:12,248 - script_editor - ERROR - Script file not found: episodes\ep_5f1aa35d\script.json
+2025-05-17 23:37:12,248 - script_editor - ERROR - Script not found for episode: ep_5f1aa35d
+2025-05-17 23:39:18,949 - __main__ - INFO - Checking environment...
+2025-05-17 23:39:18,981 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:39:18,981 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:39:18,982 - __main__ - INFO - Module found: mem0
+2025-05-17 23:39:18,983 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:39:18,983 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:39:18,984 - __main__ - INFO - Module found: openai
+2025-05-17 23:39:18,985 - __main__ - INFO - Module found: nltk
+2025-05-17 23:39:18,985 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:39:19,090 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:39:19,091 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:39:19,093 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:39:19,673 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:39:19,938 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:39:19,981 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:39:19,984 - __main__ - INFO - Initializing modules...
+2025-05-17 23:39:24,008 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:39:24,030 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:39:24,030 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:39:24,033 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:39:24,036 - __main__ - INFO - Starting CLI...
+2025-05-17 23:39:25,363 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:39:25,380 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:39:34,258 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/ "HTTP/1.1 200 OK"
+2025-05-17 23:39:34,281 - story_structure - INFO - Saved episode structure to episodes\ep_957daeb0\structure.json
+2025-05-17 23:41:05,443 - __main__ - INFO - Checking environment...
+2025-05-17 23:41:05,473 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:41:05,473 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:41:05,474 - __main__ - INFO - Module found: mem0
+2025-05-17 23:41:05,475 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:41:05,475 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:41:05,476 - __main__ - INFO - Module found: openai
+2025-05-17 23:41:05,477 - __main__ - INFO - Module found: nltk
+2025-05-17 23:41:05,477 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:41:05,577 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:41:05,577 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:41:05,579 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:41:06,168 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:41:06,313 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:41:06,357 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:41:06,361 - __main__ - INFO - Initializing modules...
+2025-05-17 23:41:09,808 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:41:09,825 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:41:09,825 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:41:09,826 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:41:09,828 - __main__ - INFO - Starting CLI...
+2025-05-17 23:41:22,213 - __main__ - INFO - Checking environment...
+2025-05-17 23:41:22,238 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:41:22,238 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:41:22,239 - __main__ - INFO - Module found: mem0
+2025-05-17 23:41:22,240 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:41:22,240 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:41:22,241 - __main__ - INFO - Module found: openai
+2025-05-17 23:41:22,242 - __main__ - INFO - Module found: nltk
+2025-05-17 23:41:22,243 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:41:22,317 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:41:22,318 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:41:22,319 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:41:22,650 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:41:22,821 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:41:22,846 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:41:22,849 - __main__ - INFO - Initializing modules...
+2025-05-17 23:41:25,798 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:41:25,816 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:41:25,816 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:41:25,818 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:41:25,820 - __main__ - INFO - Starting CLI...
+2025-05-17 23:41:32,107 - __main__ - INFO - Checking environment...
+2025-05-17 23:41:32,132 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:41:32,132 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:41:32,133 - __main__ - INFO - Module found: mem0
+2025-05-17 23:41:32,134 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:41:32,135 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:41:32,135 - __main__ - INFO - Module found: openai
+2025-05-17 23:41:32,136 - __main__ - INFO - Module found: nltk
+2025-05-17 23:41:32,137 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:41:32,208 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:41:32,208 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:41:32,210 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:41:32,540 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:41:32,680 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:41:32,707 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:41:32,709 - __main__ - INFO - Initializing modules...
+2025-05-17 23:41:43,597 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:41:43,612 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:41:43,613 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:41:43,614 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:41:43,615 - __main__ - INFO - Starting CLI...
+2025-05-17 23:41:56,141 - __main__ - INFO - Checking environment...
+2025-05-17 23:41:56,163 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:41:56,163 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:41:56,164 - __main__ - INFO - Module found: mem0
+2025-05-17 23:41:56,165 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:41:56,166 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:41:56,166 - __main__ - INFO - Module found: openai
+2025-05-17 23:41:56,167 - __main__ - INFO - Module found: nltk
+2025-05-17 23:41:56,168 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:41:56,235 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:41:56,235 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:41:56,237 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:41:56,578 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:41:56,724 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:41:56,750 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:41:56,753 - __main__ - INFO - Initializing modules...
+2025-05-17 23:41:59,873 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:41:59,890 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:41:59,890 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:41:59,892 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:41:59,893 - __main__ - INFO - Starting CLI...
+2025-05-17 23:42:12,537 - __main__ - INFO - Checking environment...
+2025-05-17 23:42:12,562 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:42:12,562 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:42:12,563 - __main__ - INFO - Module found: mem0
+2025-05-17 23:42:12,563 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:42:12,565 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:42:12,566 - __main__ - INFO - Module found: openai
+2025-05-17 23:42:12,566 - __main__ - INFO - Module found: nltk
+2025-05-17 23:42:12,567 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:42:12,634 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:42:12,634 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:42:12,636 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:42:12,975 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:42:13,111 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:42:13,137 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:42:13,140 - __main__ - INFO - Initializing modules...
+2025-05-17 23:42:24,275 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:42:24,292 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:42:24,292 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:42:24,294 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:42:24,295 - __main__ - INFO - Starting CLI...
+2025-05-17 23:42:25,526 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:42:25,543 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:42:42,187 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/ "HTTP/1.1 200 OK"
+2025-05-17 23:42:42,209 - story_structure - INFO - Saved episode structure to episodes\ep_d8005115\structure.json
+2025-05-17 23:43:09,268 - __main__ - INFO - Checking environment...
+2025-05-17 23:43:09,293 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:43:09,293 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:43:09,294 - __main__ - INFO - Module found: mem0
+2025-05-17 23:43:09,295 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:43:09,296 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:43:09,297 - __main__ - INFO - Module found: openai
+2025-05-17 23:43:09,298 - __main__ - INFO - Module found: nltk
+2025-05-17 23:43:09,298 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:43:09,400 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:43:09,400 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:43:09,403 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:43:09,724 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:43:09,842 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:43:09,869 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:43:09,872 - __main__ - INFO - Initializing modules...
+2025-05-17 23:43:13,591 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:43:13,611 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:43:13,612 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:43:13,613 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:43:13,615 - __main__ - INFO - Starting CLI...
+2025-05-17 23:43:15,239 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:43:15,255 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:43:17,109 - script_editor - ERROR - Script file not found: episodes\ep_d8005115\script.json
+2025-05-17 23:43:17,109 - script_editor - ERROR - Script not found for episode: ep_d8005115
+2025-05-17 23:43:27,699 - __main__ - INFO - Checking environment...
+2025-05-17 23:43:27,725 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:43:27,725 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:43:27,726 - __main__ - INFO - Module found: mem0
+2025-05-17 23:43:27,727 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:43:27,728 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:43:27,729 - __main__ - INFO - Module found: openai
+2025-05-17 23:43:27,729 - __main__ - INFO - Module found: nltk
+2025-05-17 23:43:27,730 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:43:27,803 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:43:27,804 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:43:27,806 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:43:28,167 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:43:28,300 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:43:28,330 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:43:28,332 - __main__ - INFO - Initializing modules...
+2025-05-17 23:43:31,601 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:43:31,618 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:43:31,618 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:43:31,622 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:43:31,624 - __main__ - INFO - Starting CLI...
+2025-05-17 23:43:50,280 - __main__ - INFO - Checking environment...
+2025-05-17 23:43:50,303 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:43:50,304 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:43:50,304 - __main__ - INFO - Module found: mem0
+2025-05-17 23:43:50,305 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:43:50,305 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:43:50,306 - __main__ - INFO - Module found: openai
+2025-05-17 23:43:50,307 - __main__ - INFO - Module found: nltk
+2025-05-17 23:43:50,307 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:43:50,375 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:43:50,375 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:43:50,377 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:43:50,698 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:43:50,828 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:43:50,856 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:43:50,860 - __main__ - INFO - Initializing modules...
+2025-05-17 23:43:53,988 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:43:54,004 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:43:54,005 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:43:54,006 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:43:54,007 - __main__ - INFO - Starting CLI...
+2025-05-17 23:43:55,090 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:43:55,106 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:44:09,200 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/ "HTTP/1.1 200 OK"
+2025-05-17 23:44:09,220 - story_structure - INFO - Saved episode structure to episodes\ep_988afb7c\structure.json
+2025-05-17 23:44:32,103 - __main__ - INFO - Checking environment...
+2025-05-17 23:44:32,126 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:44:32,126 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:44:32,127 - __main__ - INFO - Module found: mem0
+2025-05-17 23:44:32,128 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:44:32,128 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:44:32,129 - __main__ - INFO - Module found: openai
+2025-05-17 23:44:32,129 - __main__ - INFO - Module found: nltk
+2025-05-17 23:44:32,130 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:44:32,197 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:44:32,197 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:44:32,199 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:44:32,520 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:44:32,779 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:44:32,802 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:44:32,805 - __main__ - INFO - Initializing modules...
+2025-05-17 23:44:35,786 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:44:35,803 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:44:35,803 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:44:35,804 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:44:35,806 - __main__ - INFO - Starting CLI...
+2025-05-17 23:44:46,129 - __main__ - INFO - Checking environment...
+2025-05-17 23:44:46,154 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:44:46,155 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:44:46,155 - __main__ - INFO - Module found: mem0
+2025-05-17 23:44:46,156 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:44:46,157 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:44:46,159 - __main__ - INFO - Module found: openai
+2025-05-17 23:44:46,159 - __main__ - INFO - Module found: nltk
+2025-05-17 23:44:46,160 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:44:46,226 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:44:46,226 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:44:46,227 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:44:46,558 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:44:46,688 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:44:46,714 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:44:46,716 - __main__ - INFO - Initializing modules...
+2025-05-17 23:44:49,660 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:44:49,677 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:44:49,677 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:44:49,679 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:44:49,681 - __main__ - INFO - Starting CLI...
+2025-05-17 23:44:51,285 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:44:51,303 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:44:53,092 - script_editor - ERROR - Script file not found: episodes\ep_988afb7c\script.json
+2025-05-17 23:44:53,093 - script_editor - ERROR - Script not found for episode: ep_988afb7c
+2025-05-17 23:45:12,302 - __main__ - INFO - Checking environment...
+2025-05-17 23:45:12,334 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:45:12,335 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:45:12,335 - __main__ - INFO - Module found: mem0
+2025-05-17 23:45:12,336 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:45:12,337 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:45:12,337 - __main__ - INFO - Module found: openai
+2025-05-17 23:45:12,338 - __main__ - INFO - Module found: nltk
+2025-05-17 23:45:12,339 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:45:12,411 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:45:12,411 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:45:12,413 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:45:12,738 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:45:12,864 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:45:12,887 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:45:12,889 - __main__ - INFO - Initializing modules...
+2025-05-17 23:45:16,123 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:45:16,139 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:45:16,139 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:45:16,141 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:45:16,143 - __main__ - INFO - Starting CLI...
+2025-05-17 23:47:08,255 - __main__ - INFO - Checking environment...
+2025-05-17 23:47:08,277 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:47:08,277 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:47:08,278 - __main__ - INFO - Module found: mem0
+2025-05-17 23:47:08,279 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:47:08,279 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:47:08,280 - __main__ - INFO - Module found: openai
+2025-05-17 23:47:08,281 - __main__ - INFO - Module found: nltk
+2025-05-17 23:47:08,281 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:47:08,348 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:47:08,349 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:47:08,350 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:47:08,690 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:47:08,825 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:47:08,849 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:47:08,852 - __main__ - INFO - Initializing modules...
+2025-05-17 23:47:11,901 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:47:11,917 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:47:11,917 - __main__ - ERROR - Error initializing modules: 'Mem0Client' object has no attribute 'test_connection'
+Traceback (most recent call last):
+  File "C:\Users\tomic\Desktop\Cursor\stardock_podium_04\main.py", line 172, in init_modules
+    if mem0.test_connection():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mem0Client' object has no attribute 'test_connection'
+2025-05-17 23:47:11,919 - __main__ - WARNING - Some modules failed to initialize. Functionality may be limited.
+2025-05-17 23:47:11,920 - __main__ - INFO - Starting CLI...
+2025-05-17 23:47:13,500 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:47:13,516 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:47:15,278 - script_editor - ERROR - Script file not found: episodes\ep_988afb7c\script.json
+2025-05-17 23:47:15,278 - script_editor - ERROR - Script not found for episode: ep_988afb7c
+2025-05-17 23:53:49,386 - __main__ - INFO - Checking environment...
+2025-05-17 23:53:49,407 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:53:49,407 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:53:49,409 - __main__ - INFO - Module found: mem0
+2025-05-17 23:53:49,409 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:53:49,410 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:53:49,411 - __main__ - INFO - Module found: openai
+2025-05-17 23:53:49,411 - __main__ - INFO - Module found: nltk
+2025-05-17 23:53:49,412 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:53:49,481 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:53:49,481 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:53:49,483 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:53:49,807 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:53:49,946 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:53:49,971 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:53:49,973 - __main__ - INFO - Initializing modules...
+2025-05-17 23:53:53,047 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:53:53,061 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:53:54,803 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:53:54,815 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:53:54,816 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-17 23:53:54,825 - __main__ - INFO - Starting CLI...
+2025-05-17 23:54:01,942 - __main__ - INFO - Checking environment...
+2025-05-17 23:54:01,965 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:54:01,965 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:54:01,966 - __main__ - INFO - Module found: mem0
+2025-05-17 23:54:01,967 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:54:01,968 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:54:01,969 - __main__ - INFO - Module found: openai
+2025-05-17 23:54:01,970 - __main__ - INFO - Module found: nltk
+2025-05-17 23:54:01,970 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:54:02,031 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:54:02,031 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:54:02,032 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:54:02,372 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:54:02,493 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:54:02,518 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:54:02,520 - __main__ - INFO - Initializing modules...
+2025-05-17 23:54:13,388 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:54:13,401 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:54:15,262 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:54:15,276 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:54:15,277 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-17 23:54:15,279 - __main__ - INFO - Starting CLI...
+2025-05-17 23:55:04,291 - __main__ - INFO - Checking environment...
+2025-05-17 23:55:04,313 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:55:04,313 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:55:04,314 - __main__ - INFO - Module found: mem0
+2025-05-17 23:55:04,315 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:55:04,315 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:55:04,316 - __main__ - INFO - Module found: openai
+2025-05-17 23:55:04,317 - __main__ - INFO - Module found: nltk
+2025-05-17 23:55:04,318 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:55:04,368 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:55:04,369 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:55:04,370 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:55:04,698 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:55:04,816 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:55:04,841 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:55:04,844 - __main__ - INFO - Initializing modules...
+2025-05-17 23:55:07,800 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:55:07,814 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:55:09,486 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:55:09,500 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:55:09,501 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-17 23:55:09,503 - __main__ - INFO - Starting CLI...
+2025-05-17 23:55:11,800 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:55:24,116 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:55:24,129 - story_structure - ERROR - Error generating characters: name 're' is not defined
+2025-05-17 23:55:48,123 - __main__ - INFO - Checking environment...
+2025-05-17 23:55:48,148 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:55:48,149 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:55:48,150 - __main__ - INFO - Module found: mem0
+2025-05-17 23:55:48,150 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:55:48,151 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:55:48,151 - __main__ - INFO - Module found: openai
+2025-05-17 23:55:48,152 - __main__ - INFO - Module found: nltk
+2025-05-17 23:55:48,153 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:55:48,208 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:55:48,208 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:55:48,210 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:55:48,539 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:55:48,671 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:55:48,697 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:55:48,700 - __main__ - INFO - Initializing modules...
+2025-05-17 23:55:51,665 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:55:51,680 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:55:53,411 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:55:53,424 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:55:53,425 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-17 23:55:53,427 - __main__ - INFO - Starting CLI...
+2025-05-17 23:55:55,737 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:56:05,968 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:56:05,992 - story_structure - INFO - Saved episode structure to episodes\ep_988afb7c\structure.json
+2025-05-17 23:56:59,478 - __main__ - INFO - Checking environment...
+2025-05-17 23:56:59,498 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:56:59,498 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:56:59,499 - __main__ - INFO - Module found: mem0
+2025-05-17 23:56:59,500 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:56:59,501 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:56:59,501 - __main__ - INFO - Module found: openai
+2025-05-17 23:56:59,502 - __main__ - INFO - Module found: nltk
+2025-05-17 23:56:59,503 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:56:59,560 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:56:59,561 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:56:59,562 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:56:59,896 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:57:00,018 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:57:00,043 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:57:00,046 - __main__ - INFO - Initializing modules...
+2025-05-17 23:57:03,165 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:57:03,178 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:57:04,995 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:57:05,018 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:57:05,019 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-17 23:57:05,022 - __main__ - INFO - Starting CLI...
+2025-05-17 23:57:07,299 - story_structure - WARNING - No characters found for episode ep_988afb7c. Generating characters first.
+2025-05-17 23:57:07,535 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:57:19,390 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:19,417 - story_structure - INFO - Saved episode structure to episodes\ep_988afb7c\structure.json
+2025-05-17 23:57:19,790 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:57:20,244 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:20,245 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:20,246 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:20,285 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:20,346 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:20,347 - httpx - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:28,238 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:28,260 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:28,552 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:28,663 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:29,017 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:29,021 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:29,285 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:29,610 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:29,983 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:57:42,391 - story_structure - INFO - Saved episode structure to episodes\ep_988afb7c\structure.json
+2025-05-17 23:58:31,712 - __main__ - INFO - Checking environment...
+2025-05-17 23:58:31,735 - __main__ - INFO - Detected platform: Windows 10
+2025-05-17 23:58:31,735 - __main__ - INFO - Python version: 3.11.5
+2025-05-17 23:58:31,736 - __main__ - INFO - Module found: mem0
+2025-05-17 23:58:31,737 - __main__ - INFO - Module found: ebooklib
+2025-05-17 23:58:31,738 - __main__ - INFO - Module found: elevenlabs
+2025-05-17 23:58:31,738 - __main__ - INFO - Module found: openai
+2025-05-17 23:58:31,739 - __main__ - INFO - Module found: nltk
+2025-05-17 23:58:31,740 - __main__ - INFO - Module found: ffmpeg
+2025-05-17 23:58:31,794 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-17 23:58:31,795 - __main__ - INFO - Creating necessary directories...
+2025-05-17 23:58:31,796 - __main__ - INFO - Checking NLTK data...
+2025-05-17 23:58:32,117 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-17 23:58:32,249 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-17 23:58:32,274 - __main__ - INFO - Downloading NLTK package: words
+2025-05-17 23:58:32,276 - __main__ - INFO - Initializing modules...
+2025-05-17 23:58:35,196 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:58:35,209 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:58:36,937 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-17 23:58:36,952 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-17 23:58:36,953 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-17 23:58:36,955 - __main__ - INFO - Starting CLI...
+2025-05-17 23:58:39,489 - script_editor - ERROR - Script file not found: episodes\ep_988afb7c\script.json
+2025-05-17 23:58:39,490 - script_editor - WARNING - Script or scenes missing for episode: ep_988afb7c. Attempting to auto-generate.
+2025-05-17 23:58:39,491 - script_editor - INFO - Generating script for episode: ep_988afb7c
+2025-05-17 23:58:39,492 - story_structure - INFO - Loading episode data for ep_988afb7c...
+2025-05-17 23:58:39,492 - story_structure - INFO - Preparing script format for episode: Shadows of the Prophets
+2025-05-17 23:58:39,493 - story_structure - INFO - Generating script for 15 scenes...
+2025-05-17 23:58:39,493 - story_structure - INFO - Generating script for scene 1/15: Opening Image
+2025-05-17 23:58:39,493 - story_structure - INFO - Preparing to generate script for scene: Opening Image
+2025-05-17 23:58:39,493 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:58:39,493 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:58:39,678 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:58:39,691 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:58:39,692 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:58:47,725 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:58:47,738 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:58:47,739 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:58:47,739 - story_structure - INFO - Successfully generated script for scene: Opening Image
+2025-05-17 23:58:47,739 - story_structure - INFO - Completed scene 1/15
+2025-05-17 23:58:47,739 - story_structure - INFO - Generating script for scene 2/15: Theme Stated
+2025-05-17 23:58:47,740 - story_structure - INFO - Preparing to generate script for scene: Theme Stated
+2025-05-17 23:58:47,740 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:58:47,740 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:58:48,073 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:58:48,086 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:58:48,087 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:58:56,758 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:58:56,765 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:58:56,765 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:58:56,765 - story_structure - INFO - Successfully generated script for scene: Theme Stated
+2025-05-17 23:58:56,765 - story_structure - INFO - Completed scene 2/15
+2025-05-17 23:58:56,766 - story_structure - INFO - Generating script for scene 3/15: Setup
+2025-05-17 23:58:56,766 - story_structure - INFO - Preparing to generate script for scene: Setup
+2025-05-17 23:58:56,766 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:58:56,766 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:58:57,078 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:58:57,092 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:58:57,092 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:59:05,186 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:59:05,188 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:59:05,188 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:59:05,189 - story_structure - INFO - Successfully generated script for scene: Setup
+2025-05-17 23:59:05,190 - story_structure - INFO - Completed scene 3/15
+2025-05-17 23:59:05,190 - story_structure - INFO - Generating script for scene 4/15: Catalyst
+2025-05-17 23:59:05,190 - story_structure - INFO - Preparing to generate script for scene: Catalyst
+2025-05-17 23:59:05,190 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:59:05,190 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:59:05,463 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:59:05,479 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:59:05,479 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:59:15,744 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:59:15,745 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:59:15,746 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:59:15,746 - story_structure - INFO - Successfully generated script for scene: Catalyst
+2025-05-17 23:59:15,746 - story_structure - INFO - Completed scene 4/15
+2025-05-17 23:59:15,746 - story_structure - INFO - Generating script for scene 5/15: Debate
+2025-05-17 23:59:15,747 - story_structure - INFO - Preparing to generate script for scene: Debate
+2025-05-17 23:59:15,747 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:59:15,747 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:59:16,054 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:59:16,069 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:59:16,069 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:59:26,386 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:59:26,424 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:59:26,424 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:59:26,424 - story_structure - INFO - Successfully generated script for scene: Debate
+2025-05-17 23:59:26,425 - story_structure - INFO - Completed scene 5/15
+2025-05-17 23:59:26,425 - story_structure - INFO - Generating script for scene 6/15: Break into Two
+2025-05-17 23:59:26,425 - story_structure - INFO - Preparing to generate script for scene: Break into Two
+2025-05-17 23:59:26,425 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:59:26,425 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:59:26,771 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:59:26,784 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:59:26,785 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:59:34,975 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:59:34,985 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:59:34,985 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:59:34,986 - story_structure - INFO - Successfully generated script for scene: Break into Two
+2025-05-17 23:59:34,986 - story_structure - INFO - Completed scene 6/15
+2025-05-17 23:59:34,986 - story_structure - INFO - Generating script for scene 7/15: B Story
+2025-05-17 23:59:34,986 - story_structure - INFO - Preparing to generate script for scene: B Story
+2025-05-17 23:59:34,987 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:59:34,987 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:59:35,346 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:59:35,360 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:59:35,360 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:59:44,194 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:59:44,197 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:59:44,198 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:59:44,198 - story_structure - INFO - Successfully generated script for scene: B Story
+2025-05-17 23:59:44,198 - story_structure - INFO - Completed scene 7/15
+2025-05-17 23:59:44,198 - story_structure - INFO - Generating script for scene 8/15: Fun and Games
+2025-05-17 23:59:44,198 - story_structure - INFO - Preparing to generate script for scene: Fun and Games
+2025-05-17 23:59:44,199 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:59:44,199 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:59:44,462 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:59:44,477 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:59:44,477 - story_structure - INFO - Sending request to AI model...
+2025-05-17 23:59:52,852 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-17 23:59:52,855 - story_structure - INFO - Parsing generated content...
+2025-05-17 23:59:52,856 - story_structure - INFO - Creating final scene script...
+2025-05-17 23:59:52,856 - story_structure - INFO - Successfully generated script for scene: Fun and Games
+2025-05-17 23:59:52,856 - story_structure - INFO - Completed scene 8/15
+2025-05-17 23:59:52,856 - story_structure - INFO - Generating script for scene 9/15: Midpoint
+2025-05-17 23:59:52,856 - story_structure - INFO - Preparing to generate script for scene: Midpoint
+2025-05-17 23:59:52,856 - story_structure - INFO - Creating context for scene generation...
+2025-05-17 23:59:52,857 - story_structure - INFO - Searching for relevant reference material...
+2025-05-17 23:59:53,179 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-17 23:59:53,193 - story_structure - INFO - Creating generation prompt...
+2025-05-17 23:59:53,193 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:00:01,864 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:00:01,865 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:00:01,866 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:00:01,866 - story_structure - INFO - Successfully generated script for scene: Midpoint
+2025-05-18 00:00:01,866 - story_structure - INFO - Completed scene 9/15
+2025-05-18 00:00:01,866 - story_structure - INFO - Generating script for scene 10/15: Bad Guys Close In
+2025-05-18 00:00:01,866 - story_structure - INFO - Preparing to generate script for scene: Bad Guys Close In
+2025-05-18 00:00:01,867 - story_structure - INFO - Creating context for scene generation...
+2025-05-18 00:00:01,867 - story_structure - INFO - Searching for relevant reference material...
+2025-05-18 00:00:02,144 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-18 00:00:02,160 - story_structure - INFO - Creating generation prompt...
+2025-05-18 00:00:02,160 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:00:12,254 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:00:12,256 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:00:12,256 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:00:12,256 - story_structure - INFO - Successfully generated script for scene: Bad Guys Close In
+2025-05-18 00:00:12,257 - story_structure - INFO - Completed scene 10/15
+2025-05-18 00:00:12,257 - story_structure - INFO - Generating script for scene 11/15: All Is Lost
+2025-05-18 00:00:12,257 - story_structure - INFO - Preparing to generate script for scene: All Is Lost
+2025-05-18 00:00:12,257 - story_structure - INFO - Creating context for scene generation...
+2025-05-18 00:00:12,257 - story_structure - INFO - Searching for relevant reference material...
+2025-05-18 00:00:12,613 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-18 00:00:12,627 - story_structure - INFO - Creating generation prompt...
+2025-05-18 00:00:12,628 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:00:23,152 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:00:23,156 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:00:23,157 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:00:23,157 - story_structure - INFO - Successfully generated script for scene: All Is Lost
+2025-05-18 00:00:23,158 - story_structure - INFO - Completed scene 11/15
+2025-05-18 00:00:23,158 - story_structure - INFO - Generating script for scene 12/15: Dark Night of the Soul
+2025-05-18 00:00:23,158 - story_structure - INFO - Preparing to generate script for scene: Dark Night of the Soul
+2025-05-18 00:00:23,159 - story_structure - INFO - Creating context for scene generation...
+2025-05-18 00:00:23,159 - story_structure - INFO - Searching for relevant reference material...
+2025-05-18 00:00:23,472 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-18 00:00:23,519 - story_structure - INFO - Creating generation prompt...
+2025-05-18 00:00:23,519 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:00:35,914 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:00:35,918 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:00:35,920 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:00:35,920 - story_structure - INFO - Successfully generated script for scene: Dark Night of the Soul
+2025-05-18 00:00:35,921 - story_structure - INFO - Completed scene 12/15
+2025-05-18 00:00:35,921 - story_structure - INFO - Generating script for scene 13/15: Break into Three
+2025-05-18 00:00:35,922 - story_structure - INFO - Preparing to generate script for scene: Break into Three
+2025-05-18 00:00:35,922 - story_structure - INFO - Creating context for scene generation...
+2025-05-18 00:00:35,923 - story_structure - INFO - Searching for relevant reference material...
+2025-05-18 00:00:36,198 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-18 00:00:36,216 - story_structure - INFO - Creating generation prompt...
+2025-05-18 00:00:36,216 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:00:47,440 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:00:47,441 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:00:47,441 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:00:47,442 - story_structure - INFO - Successfully generated script for scene: Break into Three
+2025-05-18 00:00:47,442 - story_structure - INFO - Completed scene 13/15
+2025-05-18 00:00:47,442 - story_structure - INFO - Generating script for scene 14/15: Finale
+2025-05-18 00:00:47,442 - story_structure - INFO - Preparing to generate script for scene: Finale
+2025-05-18 00:00:47,442 - story_structure - INFO - Creating context for scene generation...
+2025-05-18 00:00:47,442 - story_structure - INFO - Searching for relevant reference material...
+2025-05-18 00:00:47,688 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-18 00:00:47,704 - story_structure - INFO - Creating generation prompt...
+2025-05-18 00:00:47,704 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:00:57,102 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:00:57,108 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:00:57,108 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:00:57,108 - story_structure - INFO - Successfully generated script for scene: Finale
+2025-05-18 00:00:57,109 - story_structure - INFO - Completed scene 14/15
+2025-05-18 00:00:57,109 - story_structure - INFO - Generating script for scene 15/15: Final Image
+2025-05-18 00:00:57,109 - story_structure - INFO - Preparing to generate script for scene: Final Image
+2025-05-18 00:00:57,109 - story_structure - INFO - Creating context for scene generation...
+2025-05-18 00:00:57,110 - story_structure - INFO - Searching for relevant reference material...
+2025-05-18 00:00:57,369 - httpx - INFO - HTTP Request: POST https://api.mem0.ai/v1/memories/search/ "HTTP/1.1 200 OK"
+2025-05-18 00:00:57,382 - story_structure - INFO - Creating generation prompt...
+2025-05-18 00:00:57,383 - story_structure - INFO - Sending request to AI model...
+2025-05-18 00:01:06,292 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-18 00:01:06,294 - story_structure - INFO - Parsing generated content...
+2025-05-18 00:01:06,294 - story_structure - INFO - Creating final scene script...
+2025-05-18 00:01:06,294 - story_structure - INFO - Successfully generated script for scene: Final Image
+2025-05-18 00:01:06,294 - story_structure - INFO - Completed scene 15/15
+2025-05-18 00:01:06,295 - story_structure - INFO - Updating episode with generated script...
+2025-05-18 00:01:06,322 - story_structure - INFO - Saved episode structure to episodes\ep_988afb7c\structure.json
+2025-05-18 00:01:06,322 - story_structure - INFO - Saving script to file...
+2025-05-18 00:01:06,343 - story_structure - INFO - Saved script to episodes\ep_988afb7c\script.json
+2025-05-18 00:01:06,343 - story_structure - INFO - Script generation completed for episode: Shadows of the Prophets
+2025-05-18 00:04:21,818 - __main__ - INFO - Checking environment...
+2025-05-18 00:04:21,845 - __main__ - INFO - Detected platform: Windows 10
+2025-05-18 00:04:21,845 - __main__ - INFO - Python version: 3.11.5
+2025-05-18 00:04:21,847 - __main__ - INFO - Module found: mem0
+2025-05-18 00:04:21,847 - __main__ - INFO - Module found: ebooklib
+2025-05-18 00:04:21,848 - __main__ - INFO - Module found: elevenlabs
+2025-05-18 00:04:21,849 - __main__ - INFO - Module found: openai
+2025-05-18 00:04:21,850 - __main__ - INFO - Module found: nltk
+2025-05-18 00:04:21,851 - __main__ - INFO - Module found: ffmpeg
+2025-05-18 00:04:21,958 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-18 00:04:21,959 - __main__ - INFO - Creating necessary directories...
+2025-05-18 00:04:21,961 - __main__ - INFO - Checking NLTK data...
+2025-05-18 00:04:22,555 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-18 00:04:22,778 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-18 00:04:22,833 - __main__ - INFO - Downloading NLTK package: words
+2025-05-18 00:04:22,839 - __main__ - INFO - Initializing modules...
+2025-05-18 00:04:26,394 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:04:26,411 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:04:28,161 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:04:28,176 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:04:28,177 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-18 00:04:28,180 - __main__ - INFO - Starting CLI...
+2025-05-18 00:04:32,806 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,806 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,807 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,808 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,809 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,809 - audio_pipeline - WARNING - No ambience found for setting: the command center of the ship/station. futuristic consoles, displays and a large viewscreen dominate the space.
+2025-05-18 00:04:32,809 - audio_pipeline - WARNING - No ambience found for setting: up the stakes for the journey ahead, drawing listeners into the mystery and the philosophical questions surrounding the prophets.
+2025-05-18 00:04:32,809 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:04:32,810 - audio_pipeline - WARNING - No ambience found for setting: up a deeper investigation into its meaning and potential consequences.
+2025-05-18 00:04:32,810 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:04:32,810 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,810 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:04:32,811 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,813 - audio_pipeline - WARNING - No sound effect found for: The bridge is dimly lit, reflecting the tension and uncertainty among the crew. The mysterious signal from Bajor has cast a shadow of doubt and confusion, challenging their understanding of the Prophets. The crew is gathered, each grappling with the implications of the discovery.
+2025-05-18 00:04:32,814 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,815 - audio_pipeline - WARNING - No ambience found for setting: the stage for the final resolution in the subsequent scene.
+2025-05-18 00:04:32,815 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:04:32,815 - audio_pipeline - WARNING - No ambience found for setting: the scene takes place on the bridge of the starship. alarms are blaring and red alert lights are flashing. crewmembers are frantically working at their stations.
+2025-05-18 00:04:32,815 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:04:32,815 - audio_pipeline - WARNING - No ambience found for setting: the commanding officer's ready room on the ship. the room is dimly lit, with the mysterious bajoran signal displayed on a wall monitor, pulsing and shifting.
+2025-05-18 00:04:32,816 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:04:32,816 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:04:32,817 - audio_pipeline - WARNING - No intro music found
+2025-05-18 00:04:32,818 - audio_pipeline - WARNING - No outro music found
+2025-05-18 00:04:32,961 - audio_pipeline - ERROR - Error assembling episode audio: ffmpeg error (see stderr output for detail)
+2025-05-18 00:05:36,385 - __main__ - INFO - Checking environment...
+2025-05-18 00:05:36,408 - __main__ - INFO - Detected platform: Windows 10
+2025-05-18 00:05:36,408 - __main__ - INFO - Python version: 3.11.5
+2025-05-18 00:05:36,409 - __main__ - INFO - Module found: mem0
+2025-05-18 00:05:36,410 - __main__ - INFO - Module found: ebooklib
+2025-05-18 00:05:36,410 - __main__ - INFO - Module found: elevenlabs
+2025-05-18 00:05:36,411 - __main__ - INFO - Module found: openai
+2025-05-18 00:05:36,412 - __main__ - INFO - Module found: nltk
+2025-05-18 00:05:36,413 - __main__ - INFO - Module found: ffmpeg
+2025-05-18 00:05:36,481 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-18 00:05:36,481 - __main__ - INFO - Creating necessary directories...
+2025-05-18 00:05:36,483 - __main__ - INFO - Checking NLTK data...
+2025-05-18 00:05:36,974 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-18 00:05:37,104 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-18 00:05:37,149 - __main__ - INFO - Downloading NLTK package: words
+2025-05-18 00:05:37,153 - __main__ - INFO - Initializing modules...
+2025-05-18 00:05:40,257 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:05:40,270 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:05:41,959 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:05:41,974 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:05:41,975 - __main__ - INFO - Voice registry initialized with 0 voices
+2025-05-18 00:05:41,978 - __main__ - INFO - Starting CLI...
+2025-05-18 00:05:46,105 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,106 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,106 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,107 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,108 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,108 - audio_pipeline - WARNING - No ambience found for setting: up the stakes for the journey ahead, drawing listeners into the mystery and the philosophical questions surrounding the prophets.
+2025-05-18 00:05:46,108 - audio_pipeline - WARNING - No ambience found for setting: the command center of the ship/station. futuristic consoles, displays and a large viewscreen dominate the space.
+2025-05-18 00:05:46,108 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:05:46,109 - audio_pipeline - WARNING - No ambience found for setting: up a deeper investigation into its meaning and potential consequences.
+2025-05-18 00:05:46,109 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,109 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:05:46,109 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:05:46,109 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,112 - audio_pipeline - WARNING - No sound effect found for: The bridge is dimly lit, reflecting the tension and uncertainty among the crew. The mysterious signal from Bajor has cast a shadow of doubt and confusion, challenging their understanding of the Prophets. The crew is gathered, each grappling with the implications of the discovery.
+2025-05-18 00:05:46,112 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,113 - audio_pipeline - WARNING - No ambience found for setting: the stage for the final resolution in the subsequent scene.
+2025-05-18 00:05:46,113 - audio_pipeline - WARNING - No ambience found for setting: the scene takes place on the bridge of the starship. alarms are blaring and red alert lights are flashing. crewmembers are frantically working at their stations.
+2025-05-18 00:05:46,113 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:05:46,114 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:05:46,114 - audio_pipeline - WARNING - No ambience found for setting: the commanding officer's ready room on the ship. the room is dimly lit, with the mysterious bajoran signal displayed on a wall monitor, pulsing and shifting.
+2025-05-18 00:05:46,114 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:05:46,114 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:05:46,115 - audio_pipeline - WARNING - No intro music found
+2025-05-18 00:05:46,116 - audio_pipeline - WARNING - No outro music found
+2025-05-18 00:05:46,174 - audio_pipeline - ERROR - Error assembling episode audio: ffmpeg error (see stderr output for detail)
+2025-05-18 00:12:00,607 - __main__ - INFO - Checking environment...
+2025-05-18 00:12:00,627 - __main__ - INFO - Detected platform: Windows 10
+2025-05-18 00:12:00,627 - __main__ - INFO - Python version: 3.11.5
+2025-05-18 00:12:00,627 - __main__ - INFO - Module found: mem0
+2025-05-18 00:12:00,629 - __main__ - INFO - Module found: ebooklib
+2025-05-18 00:12:00,630 - __main__ - INFO - Module found: elevenlabs
+2025-05-18 00:12:00,631 - __main__ - INFO - Module found: openai
+2025-05-18 00:12:00,631 - __main__ - INFO - Module found: nltk
+2025-05-18 00:12:00,632 - __main__ - INFO - Module found: ffmpeg
+2025-05-18 00:12:00,722 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-18 00:12:00,722 - __main__ - INFO - Creating necessary directories...
+2025-05-18 00:12:00,724 - __main__ - INFO - Checking NLTK data...
+2025-05-18 00:12:01,186 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-18 00:12:01,502 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-18 00:12:01,549 - __main__ - INFO - Downloading NLTK package: words
+2025-05-18 00:12:01,554 - __main__ - INFO - Initializing modules...
+2025-05-18 00:12:12,923 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:12:12,936 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:12:14,714 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:12:14,730 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:12:14,731 - __main__ - INFO - Voice registry initialized with 6 voices
+2025-05-18 00:12:14,737 - __main__ - INFO - Starting CLI...
+2025-05-18 00:12:19,357 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,358 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,358 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,360 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,360 - audio_pipeline - WARNING - No ambience found for setting: up the stakes for the journey ahead, drawing listeners into the mystery and the philosophical questions surrounding the prophets.
+2025-05-18 00:12:19,360 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,360 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:12:19,361 - audio_pipeline - WARNING - No ambience found for setting: the command center of the ship/station. futuristic consoles, displays and a large viewscreen dominate the space.
+2025-05-18 00:12:19,361 - audio_pipeline - WARNING - No ambience found for setting: up a deeper investigation into its meaning and potential consequences.
+2025-05-18 00:12:19,361 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:12:19,361 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,361 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:12:19,361 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,364 - audio_pipeline - WARNING - No sound effect found for: The bridge is dimly lit, reflecting the tension and uncertainty among the crew. The mysterious signal from Bajor has cast a shadow of doubt and confusion, challenging their understanding of the Prophets. The crew is gathered, each grappling with the implications of the discovery.
+2025-05-18 00:12:19,364 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,366 - audio_pipeline - WARNING - No ambience found for setting: the scene takes place on the bridge of the starship. alarms are blaring and red alert lights are flashing. crewmembers are frantically working at their stations.
+2025-05-18 00:12:19,366 - audio_pipeline - WARNING - No ambience found for setting: the stage for the final resolution in the subsequent scene.
+2025-05-18 00:12:19,366 - audio_pipeline - WARNING - No ambience found for setting: the commanding officer's ready room on the ship. the room is dimly lit, with the mysterious bajoran signal displayed on a wall monitor, pulsing and shifting.
+2025-05-18 00:12:19,366 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:12:19,366 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:12:19,366 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:12:19,366 - audio_pipeline - WARNING - No audio clips to mix
+2025-05-18 00:12:19,368 - audio_pipeline - WARNING - No intro music found
+2025-05-18 00:12:19,369 - audio_pipeline - WARNING - No outro music found
+2025-05-18 00:12:19,477 - audio_pipeline - ERROR - Error assembling episode audio: ffmpeg error (see stderr output for detail)
+2025-05-18 00:14:20,756 - __main__ - INFO - Checking environment...
+2025-05-18 00:14:20,780 - __main__ - INFO - Detected platform: Windows 10
+2025-05-18 00:14:20,781 - __main__ - INFO - Python version: 3.11.5
+2025-05-18 00:14:20,781 - __main__ - INFO - Module found: mem0
+2025-05-18 00:14:20,782 - __main__ - INFO - Module found: ebooklib
+2025-05-18 00:14:20,783 - __main__ - INFO - Module found: elevenlabs
+2025-05-18 00:14:20,784 - __main__ - INFO - Module found: openai
+2025-05-18 00:14:20,784 - __main__ - INFO - Module found: nltk
+2025-05-18 00:14:20,785 - __main__ - INFO - Module found: ffmpeg
+2025-05-18 00:14:20,854 - __main__ - INFO - FFmpeg found: ffmpeg version 5.1.2-essentials_build-www.gyan.dev Copyright (c) 2000-2022 the FFmpeg developers
+2025-05-18 00:14:20,855 - __main__ - INFO - Creating necessary directories...
+2025-05-18 00:14:20,857 - __main__ - INFO - Checking NLTK data...
+2025-05-18 00:14:21,217 - __main__ - INFO - Downloading NLTK package: averaged_perceptron_tagger
+2025-05-18 00:14:21,342 - __main__ - INFO - Downloading NLTK package: maxent_ne_chunker
+2025-05-18 00:14:21,369 - __main__ - INFO - Downloading NLTK package: words
+2025-05-18 00:14:21,372 - __main__ - INFO - Initializing modules...
+2025-05-18 00:14:24,583 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:14:24,600 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:14:26,487 - httpx - INFO - HTTP Request: GET https://api.mem0.ai/v1/ping/ "HTTP/1.1 200 OK"
+2025-05-18 00:14:26,500 - mem0_client - INFO - Initialized Mem0 client using API key
+2025-05-18 00:14:26,501 - __main__ - INFO - Voice registry initialized with 6 voices
+2025-05-18 00:14:26,504 - __main__ - INFO - Starting CLI...
+2025-05-18 00:14:31,069 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,069 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,069 - audio_pipeline - ERROR - No voice found for character: Jalen
+2025-05-18 00:14:31,070 - audio_pipeline - ERROR - No voice found for character: Jalen
+2025-05-18 00:14:31,070 - audio_pipeline - ERROR - No voice found for character: Naren
+2025-05-18 00:14:31,070 - audio_pipeline - ERROR - No voice found for character: Sarik
+2025-05-18 00:14:31,070 - audio_pipeline - ERROR - No voice found for character: Sarik
+2025-05-18 00:14:31,070 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Naren
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Sarik
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Elara
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Jalen
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,071 - audio_pipeline - ERROR - No voice found for character: Elara
+2025-05-18 00:14:31,072 - audio_pipeline - ERROR - No voice found for character: Jalen
+2025-05-18 00:14:31,072 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,072 - audio_pipeline - ERROR - No voice found for character: Naren
+2025-05-18 00:14:31,072 - audio_pipeline - ERROR - No voice found for character: Jalen
+2025-05-18 00:14:31,072 - audio_pipeline - ERROR - No voice found for character: Sarik
+2025-05-18 00:14:31,072 - audio_pipeline - ERROR - No voice found for character: Naren
+2025-05-18 00:14:31,073 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,073 - audio_pipeline - ERROR - No voice found for character: Aria T'Vel
+2025-05-18 00:14:31,073 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:14:31,073 - audio_pipeline - ERROR - No voice found for character: Sarik
+2025-05-18 00:14:31,073 - audio_pipeline - ERROR - Error generating scene audio: 'NoneType' object has no attribute 'lower'
+2025-05-18 00:14:31,074 - audio_pipeline - WARNING - No intro music found
+2025-05-18 00:14:31,075 - audio_pipeline - WARNING - No outro music found
+2025-05-18 00:14:31,075 - audio_pipeline - ERROR - No valid scene audio files to assemble
+2025-05-18 01:04:38,000 - script_editor - INFO - Created script revision: rev_c84839c8
+2025-05-18 01:04:38,038 - script_editor - INFO - Saved script for episode ep_988afb7c
+2025-05-18 01:04:38,039 - script_editor - INFO - Script for episode ep_988afb7c updated successfully

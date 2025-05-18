@@ -1,0 +1,24 @@
+{
+  "version": "v1.1",
+  "embedder": {
+    "provider": "openai",
+    "config": {
+      "model": "text-embedding-3-large"
+    }
+  },
+  "vector_store": {
+    "provider": "qdrant",
+    "config": {
+      "collection_name": "stardock_podium",
+      "embedding_model_dims": 3072
+    }
+  },
+  "llm": {
+    "provider": "openai",
+    "config": {
+      "model": "gpt-4o",
+      "temperature": 0.1,
+      "max_tokens": 2000
+    }
+  }
+}

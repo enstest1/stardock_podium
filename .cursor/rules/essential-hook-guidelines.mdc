@@ -1,0 +1,29 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Essential Resource Access Guidelines
+
+This rule explains how to access common resources and data management instances within this project, analogous to "hooks" in some frameworks.
+
+**Context:**
+This project is a Python application and does not use concepts like React hooks for accessing state or shared data. Instead, it relies on singleton instances of manager and client classes that handle specific domains (e.g., Mem0 database, voice registry, episode data).
+
+**Guidelines:**
+
+1.  **Accessing Managers/Clients:** To interact with shared resources or manage persistent data, always obtain an instance of the relevant manager or client class using its designated singleton helper function.
+    *   **Mem0 Database:** Use `from mem0_client import get_mem0_client` and call `mem0_client = get_mem0_client()` to get the Mem0 client instance for adding, searching, or retrieving memories.
+    *   **EPUB Processing:** Use `from epub_processor import get_processor` and call `processor = get_processor()` to get the EPUB processor instance for listing or accessing book content.
+    *   **Voice Registry:** Use `from voice_registry import get_voice_registry` and call `voice_registry = get_voice_registry()` to get the voice registry instance for managing or accessing voice data.
+    *   **Story Structure/Episode Data:** Use `from story_structure import get_story_structure` and call `story_structure = get_story_structure()` to get the story structure manager for generating episode structure, scenes, or scripts, or for listing episodes.
+    *   **Episode Metadata:** Use `from episode_metadata import get_episode_metadata_manager` and call `metadata_manager = get_episode_metadata_manager()` for managing episode tags, series, or generating feeds.
+    *   **Script Editing:** Use `from script_editor import get_script_editor` and call `script_editor = get_script_editor()` for loading, saving, or manipulating episode scripts.
+    *   **Audio Pipeline:** Use `from audio_pipeline import get_audio_pipeline` and call `audio_pipeline = get_audio_pipeline()` for audio generation tasks.
+    *   **Quality Checking:** Use `from quality_checker import get_quality_checker` and call `quality_checker = get_quality_checker()` for checking episode quality.
+
+2.  **Usage Pattern:** Once you have obtained an instance of a manager/client (e.g., `mem0_client = get_mem0_client()`), you can call its methods to perform operations (e.g., `mem0_client.search_memory(...)`, `voice_registry.generate_speech(...)`).
+
+3.  **Avoid Re-Initialization:** Never directly instantiate `Mem0Client`, `VoiceRegistry`, etc., using their class constructors within functions or methods unless you have a specific reason (e.g., testing setup). Always use the `get_...()` helper functions to ensure you are working with the single, shared instance configured by the application startup.
+
+By following these guidelines, the AI will correctly access and utilize the project's core components and data, maintaining consistency and leveraging the existing architecture.
