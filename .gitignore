@@ -1,5 +1,6 @@
 # Environment variables
 .env
+.env.*
 
 # Python
 __pycache__/
@@ -23,21 +24,35 @@ wheels/
 .installed.cfg
 *.egg
 
-# Project specific
-episodes/*/audio/
-logs/
-temp/
-.cursor/
-.claude/
+# Logs
 *.log
-repomix-output.xml
+logs/
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+*.flac
+audio/
+episodes/*/audio/
+
+# Temporary files
+temp/
+*.tmp
 
 # IDE
-.idea/
 .vscode/
+.idea/
 *.swp
 *.swo
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+.cursor/
+.claude/
+
+# Repomix
+repomix-output.xml 
